@@ -196,9 +196,9 @@ The dataset used in this project is included in this repository for learning and
 
 **Arya Mane**
 
-📧 Email: *(Add your email)*
+📧 Email: *(aaryamane2929@gmail.com)*
 
-🔗 LinkedIn: *(Add your LinkedIn Profile)*
+🔗 LinkedIn: *(linkedin.com/in/aryamane2929)*
 
 🐙 GitHub: https://github.com/AryaMane29
 
