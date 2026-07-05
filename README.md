@@ -1,79 +1,207 @@
-# 📊 PhonePe Power BI Dashboard
+# 📊 PhonePe Business Intelligence Dashboard
 
-## 📌 Project Overview
-
-This project is an interactive Power BI dashboard built using the PhonePe transaction dataset. It provides insights into transactions, users, and state-wise performance through dynamic visualizations and KPIs.
+A multi-page interactive **Business Intelligence Dashboard** built using **Power BI, DAX, Power Query, SQL, and Excel** to analyze PhonePe business transactions across multiple services.
 
 ---
 
-## 🚀 Tools & Technologies
+## 🚀 Project Overview
 
-- Power BI Desktop
+This dashboard provides a complete analysis of PhonePe's business operations by monitoring:
+
+- 💰 Total Transaction Amount
+- 📈 Total Transactions
+- ✅ Successful Payments
+- ❌ Failed Payments
+- 📊 Success Rate
+- 📅 Monthly Performance Trends
+- 🔍 Interactive Filtering & Navigation
+
+The dashboard is divided into five business modules for better decision-making.
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Microsoft Power BI
 - DAX
 - Power Query
 - SQL
 - Microsoft Excel
-
----
-
-## 📈 Dashboard Features
-
-- KPI Cards
-- State-wise Analysis
-- Transaction Analysis
-- User Analysis
-- Interactive Filters & Slicers
-- Dynamic Charts
-
----
-
-## 📂 Project Files
-
-- `PhonePay.pbix` – Power BI Dashboard
-- `PhonePe_Clean_Dataset.xlsx` – Dataset
-- `images/` – Dashboard Screenshots
-
----
-
-## 📷 Dashboard Preview
-
-### Dashboard 1
-
-![Dashboard 1](images/Screenshot%202026-07-05%20182021.png)
-
-### Dashboard 2
-
-![Dashboard 2](images/Screenshot%202026-07-05%20182305.png)
-
-### Dashboard 3
-
-![Dashboard 3](images/Screenshot%202026-07-05%20182600.png)
-
----
-
-## 📊 Key Insights
-
-- State-wise transaction trends
-- User engagement analysis
-- Transaction category comparison
-- Interactive business performance dashboard
-
----
-
-## ⭐ Skills Demonstrated
-
-- Data Cleaning
 - Data Modeling
-- DAX Measures
-- Power Query
-- Dashboard Design
-- Business Intelligence
-- Data Visualization
+- Git & GitHub
 
 ---
 
-## 👤 Author
+# 📂 Dashboard Pages
+
+## 🏠 1. Home Dashboard
+
+### Features
+- Overall Business KPIs
+- Total Amount
+- Total Transactions
+- Successful Payments
+- Failed Payments
+- Services Comparison
+- Monthly Transaction Trend
+- Failed Payment Analysis
+- Date Slicer
+
+### Preview
+
+![Home Dashboard](images/Home.png)
+
+---
+
+## 🛡️ 2. Insurance Dashboard
+
+### Features
+
+- Total Insurance Premium
+- Insurance Payment Status
+- Failed Payment Reasons
+- Insurance Type vs Premium
+- Monthly Premium Trend
+- Interactive Date Filter
+
+### Preview
+
+![Insurance Dashboard](images/Insurance.png)
+
+---
+
+## 💰 3. Loans Dashboard
+
+### Features
+
+- Total Loan Amount
+- Loan Status Analysis
+- Loan Type vs Amount
+- Monthly Loan Trend
+- Date Filter
+
+### Preview
+
+![Loans Dashboard](images/Loans.png)
+
+---
+
+## 💸 4. Money Transfer Dashboard
+
+### Features
+
+- Total Transfer Amount
+- Transfer Success Rate
+- Receiver Bank Distribution
+- Transfer Amount by Bank
+- Monthly Transfer Trend
+- Interactive Matrix
+- Date Filter
+
+### Preview
+
+![Money Transfer Dashboard](images/MoneyTransfer.png)
+
+---
+
+## 📱 5. Recharge & Bills Dashboard
+
+### Features
+
+- Total Recharge Amount
+- Recharge Success Rate
+- Operator Distribution
+- Recharge Type Analysis
+- Monthly Recharge Trend
+- Interactive Date Filter
+
+### Preview
+
+![Recharge Dashboard](images/RechargeBills.png)
+
+---
+
+# 📊 Key KPIs
+
+- Total Amount
+- Total Transactions
+- Successful Transactions
+- Failed Transactions
+- Success Rate
+- Monthly Trends
+- Service-wise Analysis
+- Category-wise Analysis
+
+---
+
+# 📁 Repository Structure
+
+```
+PhonePe-PowerBI-Dashboard
+│
+├── PhonePay.pbix
+├── PhonePe_Clean_Dataset.xlsx
+├── README.md
+└── images
+    ├── Home.png
+    ├── Insurance.png
+    ├── Loans.png
+    ├── MoneyTransfer.png
+    └── RechargeBills.png
+```
+
+---
+
+# 📈 Business Insights
+
+- More than **96%** of transactions are completed successfully.
+- Insurance and Loan modules contribute significantly to business revenue.
+- Monthly transaction trends help identify seasonal performance.
+- Receiver bank analysis highlights transaction distribution across banks.
+- Failed payment reasons help identify operational bottlenecks.
+
+---
+
+# 🎯 Skills Demonstrated
+
+✔ Power BI Dashboard Development
+
+✔ Data Cleaning with Power Query
+
+✔ Data Modeling
+
+✔ DAX Measures
+
+✔ KPI Design
+
+✔ Interactive Report Design
+
+✔ Data Visualization
+
+✔ Business Analysis
+
+✔ SQL Data Handling
+
+✔ GitHub Project Documentation
+
+---
+
+# 📥 Dataset
+
+The dataset used in this project is included in this repository for learning and portfolio purposes.
+
+---
+
+# 👨‍💻 Author
 
 **Arya Mane**
 
-GitHub: https://github.com/AryaMane29
+📧 Email: *(Add your email)*
+
+🔗 LinkedIn: *(Add your LinkedIn Profile)*
+
+🐙 GitHub: https://github.com/AryaMane29
+
+---
+
+## ⭐ If you found this project helpful, consider giving it a Star.
